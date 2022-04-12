@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  background-color: aqua;
+position: absolute;
+top: 38%;
+left: 38%;  
+transition: all 2s;
+}
